@@ -1,0 +1,10 @@
+@charset "UTF-8";
+html {
+	font-family: Helvetica Neue,Helvetica,Arial,sans-serif; 
+	background: #e2e2e2;
+}
+body h1 {
+	text-align: center;
+	font-style: inherit;
+	font-weight: 100;
+}
